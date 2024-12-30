@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# Project Showcase: React and HTML Projects
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Project Showcase](https://i.ibb.co/TMQdM9X/Picture3.png)
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+Welcome to a vibrant showcase of my journey in frontend development! This collection of projects reflects not just coding skills but a passion for creating visually appealing and highly functional web applications. As a dedicated developer, I've embraced the power of React and HTML to craft engaging digital experiences.
 
-### `npm start`
+## React Projects
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 1. React E-Com
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![React E-Com](https://i.ibb.co/PGhvSLG/react-ecom-shopping-store.png)
 
-### `npm test`
+- **Description:** Immerse yourself in a delightful e-commerce experience where React and Styled-components seamlessly blend functionality and aesthetics.
+- **Technologies:** HTML, JavaScript, React, Redux, Styled-Components.
+- [Live Demo](https://react-ecom-shopping-store.netlify.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 2. WordPress Project
 
-### `npm run build`
+![WordPress Project](https://i.ibb.co/WGK3SkW/bits-and-bots.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Description:** Explore a world of creativity with this React, Sass, and Bootstrap-infused project that harmoniously integrates headless WordPress CMS.
+- **Technologies:** React, Sass, Wordpress, Bootstrap, BEM.
+- [Live Demo](https://bits-and-bots.netlify.app/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 3. Car App
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Car App](https://i.ibb.co/dtRkxNt/Picture5.png)
 
-### `npm run eject`
+- **Description:** Cruise through a captivating collection of cars in this React-based app, where search functionality meets a sleek user interface.
+- **Technologies:** React, CSS Modules, Hooks.
+- [Live Demo](https://car-hook-app.netlify.app/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## HTML Projects
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 1. Ice Creams
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Ice Creams](https://i.ibb.co/pKhLq2K/ice-creams.jpg)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Description:** Indulge in a sweet interactive journey through an ice cream shop, blending HTML, CSS, and JavaScript for a flavorful experience.
+- **Technologies:** HTML, CSS, JavaScript.
+- [Live Demo](https://ice-creams-shop.netlify.app/)
 
-## Learn More
+### 2. Auction Web
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Auction Web](https://i.ibb.co/QXCfdZ7/neno-sp2auctions.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Description:** Immerse yourself in the world of bidding with this HTML, Bootstrap, Sass, and JavaScript-powered auction platform.
+- **Technologies:** HTML, CSS, JavaScript.
+- [Live Demo](https://neno-sp2auctions.netlify.app/)
 
-### Code Splitting
+### 3. Community Science Museum
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Community Science Museum](https://i.ibb.co/ZLKDmkk/csm-screenshot.jpg)
 
-### Analyzing the Bundle Size
+- **Description:** Embark on an educational journey with this website showcasing HTML and CSS mastery, dedicated to a community science museum.
+- **Technologies:** HTML, CSS.
+- [Live Demo](https://nenorvalls-community-science-museum.netlify.app/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 4. Contact Form
 
-### Making a Progressive Web App
+![Contact Form](https://i.ibb.co/bdh4vK7/contact-form-cover.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- **Description:** Engage with users through a sleek 'Contact Us Web App,' meticulously crafted with HTML, CSS, and JavaScript for seamless form validation.
+- **Technologies:** HTML, CSS, JavaScript.
+- [Live Demo](https://simple-contact-form-responsive.netlify.app/)
 
-### Advanced Configuration
+### 5. To-do-List
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![To-do-List](https://i.ibb.co/2v8LfDJ/Todo-List-Cover.jpg)
 
-### Deployment
+- **Description:** Simplify your tasks with a straightforward To-Do List application, thoughtfully developed using HTML, CSS, and JavaScript.
+- **Technologies:** HTML, CSS, JavaScript.
+- [Live Demo](https://nenorvalls-to-do-list.netlify.app/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### 6. Quiz App
 
-### `npm run build` fails to minify
+![Quiz App](https://i.ibb.co/N7pnsF5/Quiz-App-Cover.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Description:** Dive into the world of interactive learning with this engaging quiz app, dynamically generating questions using HTML, CSS, and JavaScript.
+- **Technologies:** HTML, CSS, JavaScript.
+- [Live Demo](https://nenorvalls-quiz-app.netlify.app/)
+
+## Scroll to Top Button
+
+- Enjoy a seamless navigation experience with the convenient scroll-to-top button, ensuring effortless access to the top of the page.
