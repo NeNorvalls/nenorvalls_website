@@ -1,7 +1,5 @@
-# Project Showcase: React and HTML Projects
-
-![Project Showcase](https://i.ibb.co/TMQdM9X/Picture3.png)
-
+# From Concept to Creation: My Web Portfolio
+[View it here!](https://nenorvalls-website.netlify.app/)
 ## Overview
 
 Welcome to a vibrant showcase of my journey in frontend development! This collection of projects reflects not just coding skills but a passion for creating visually appealing and highly functional web applications. As a dedicated developer, I've embraced the power of React and HTML to craft engaging digital experiences.
