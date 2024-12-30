@@ -48,11 +48,10 @@ Welcome to a vibrant showcase of my journey in frontend development! This collec
 - 
 ### 3. Community Science Museum
 
-![Community Science Museum](https://i.ibb.co/ZLKDmkk/csm-screenshot.jpg)
+[Community Science Museum](https://nenorvalls.github.io/Community-Science-Museum/)
 
 - **Description:** Embark on an educational journey with this website showcasing HTML and CSS mastery, dedicated to a community science museum.
 - **Technologies:** HTML, CSS.
-- [Live Demo](https://nenorvalls-community-science-museum.netlify.app/)
 
 ### 4. Contact Form
 
