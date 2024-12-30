@@ -8,11 +8,10 @@ Welcome to a vibrant showcase of my journey in frontend development! This collec
 
 ### 1. React E-Com
 
-![React E-Com](https://i.ibb.co/PGhvSLG/react-ecom-shopping-store.png)
+[React E-Com Project](https://ecommerce-shopping-store.netlify.app/)
 
 - **Description:** Immerse yourself in a delightful e-commerce experience where React and Styled-components seamlessly blend functionality and aesthetics.
 - **Technologies:** HTML, JavaScript, React, Redux, Styled-Components.
-- [Live Demo](https://react-ecom-shopping-store.netlify.app/)
 
 ### 2. WordPress Project
 
