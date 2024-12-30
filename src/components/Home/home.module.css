@@ -1,0 +1,177 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Great+Vibes&family=Roboto&display=swap");
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  font-size: 14px;
+}
+
+.sidebar {
+  padding: 20px;
+  width: 100%;
+  max-width: 400px;
+  box-sizing: border-box;
+  border: none;
+  background: url("https://i.ibb.co/GQByDtP/bacground.jpg") center/cover;
+  overflow: hidden;
+  color: #f2f2f2;
+  min-height: 100vh;
+}
+
+.profileImage {
+  width: 100%;
+  max-width: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.introParagraph {
+  font-size: 1.3rem;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 0;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+.contactInfo {
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
+
+@media (min-width: 768px) {
+  .introParagraph {
+    font-size: 1rem;
+  }
+
+  .contactInfo {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .introParagraph {
+    font-size: 1.6rem;
+    margin-bottom: 5rem;
+  }
+
+  .contactInfo {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+/* =============================================== */
+
+.content {
+  padding: 20px;
+  flex: 1;
+  box-sizing: border-box;
+  margin-bottom: 3rem;
+}
+
+.welcomeHeader {
+  font-size: 36px;
+  font-weight: bolder;
+  margin-bottom: 20px;
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 5px;
+}
+
+@media only screen and (max-width: 400px) {
+  .welcomeHeader {
+    font-size: 24px;
+    letter-spacing: 3px;
+  }
+}
+
+.skillsParagraph {
+  margin: 1.5rem;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.contributionParagraph {
+  margin: 2rem;
+  font-size: 18px;
+  line-height: 1.5;
+  word-spacing: 2px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .skillsParagraph {
+    font-size: 24px;
+  }
+
+  .contributionParagraph {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .skillsParagraph {
+    font-size: 20px;
+  }
+
+  .contributionParagraph {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .skillsParagraph {
+    font-size: 18px;
+  }
+
+  .contributionParagraph {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .skillsParagraph {
+    font-size: 16px;
+  }
+
+  .contributionParagraph {
+    font-size: 14px;
+  }
+}
+
+.readyParagraph {
+  margin-bottom: 20px;
+  font-size: 18px;
+  padding: 1.5rem;
+  font-weight: 600;
+}
+
+.exploreButton {
+  padding: 10px 20px;
+  background-color: #8b0000;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.exploreButton:hover {
+  background-color: #0056b3;
+}
+
+.content {
+  margin-bottom: 5rem;
+}

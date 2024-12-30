@@ -1,0 +1,58 @@
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  max-width: 80%;
+  margin: 2rem auto;
+}
+
+.flipCard {
+  width: 180px;
+  height: 180px;
+  perspective: 1000px;
+  cursor: pointer;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.1s;
+}
+
+.flipCard:hover .flipCardInner,
+.flipCard.clicked .flipCardInner {
+  transform: rotateY(180deg);
+}
+
+.flipCardInner {
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+}
+
+.flipCardFront,
+.flipCardBack {
+  width: 100%;
+  height: 100%;
+  max-height: 200px;
+  border-radius: 10px;
+  position: absolute;
+  backface-visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+}
+
+.flipCardFront {
+  background: url("https://i.ibb.co/GQByDtP/bacground.jpg") center/cover;
+  color: #fff;
+  letter-spacing: 2px;
+}
+
+.flipCardBack {
+  background-color: darkred;
+  color: white;
+  transform: rotateY(180deg);
+  letter-spacing: 2px;
+}
