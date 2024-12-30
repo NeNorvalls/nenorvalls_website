@@ -41,12 +41,11 @@ Welcome to a vibrant showcase of my journey in frontend development! This collec
 
 ### 2. Auction Web
 
-![Auction Web](https://i.ibb.co/QXCfdZ7/neno-sp2auctions.png)
+[Auction Web Project]([https://i.ibb.co/QXCfdZ7/neno-sp2auctions.png](https://neno-sp2auctions.netlify.app/)
 
 - **Description:** Immerse yourself in the world of bidding with this HTML, Bootstrap, Sass, and JavaScript-powered auction platform.
 - **Technologies:** HTML, CSS, JavaScript.
-- [Live Demo](https://neno-sp2auctions.netlify.app/)
-
+- 
 ### 3. Community Science Museum
 
 ![Community Science Museum](https://i.ibb.co/ZLKDmkk/csm-screenshot.jpg)
