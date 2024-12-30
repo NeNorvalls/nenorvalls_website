@@ -55,11 +55,10 @@ Welcome to a vibrant showcase of my journey in frontend development! This collec
 
 ### 4. Contact Form
 
-![Contact Form](https://i.ibb.co/bdh4vK7/contact-form-cover.jpg)
+[Contact Us Form](https://nenorvalls.github.io/contact-us/))
 
 - **Description:** Engage with users through a sleek 'Contact Us Web App,' meticulously crafted with HTML, CSS, and JavaScript for seamless form validation.
 - **Technologies:** HTML, CSS, JavaScript.
-- [Live Demo](https://simple-contact-form-responsive.netlify.app/)
 
 ### 5. To-do-List
 
