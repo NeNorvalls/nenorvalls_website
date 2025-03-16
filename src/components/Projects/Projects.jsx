@@ -120,24 +120,6 @@ const Projects = () => {
       technologies: "HTML, CSS, JavaScript",
       githubLink: "https://github.com/NeNorvalls/contact-us.git",
       demoLink: "https://nenorvalls.github.io/contact-us/"
-    },
-    {
-      title: "To-do-List",
-      imageUrl: "https://i.ibb.co/2v8LfDJ/Todo-List-Cover.jpg",
-      description:
-        "This project is a simple To-Do List application developed using HTML, CSS, and JavaScript.",
-      technologies: "HTML, CSS, JavaScript",
-      githubLink: "https://github.com/NeNorvalls/To-do-list.git",
-      demoLink: "https://nenorvalls-to-do-list.netlify.app/"
-    },
-    {
-      title: "Quiz App",
-      imageUrl: "https://i.ibb.co/N7pnsF5/Quiz-App-Cover.jpg",
-      description:
-        "This repository contains an interactive quiz implemented in HTML, CSS, and JavaScript. The quiz dynamically generates questions and allows users to submit their answers for evaluation.",
-      technologies: "HTML, CSS, JavaScript",
-      githubLink: "https://github.com/NeNorvalls/Quiz-App.git",
-      demoLink: "https://nenorvalls-quiz-app.netlify.app/"
     }
   ];
 
