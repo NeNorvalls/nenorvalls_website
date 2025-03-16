@@ -70,7 +70,7 @@ const Projects = () => {
       description:
         "This project is created with React, Sass, Bootstrap, headless WordPress CMS, and UI design.",
       technologies: "React, Sass, Wordpress, Bootstrap, BEM",
-      githubLink: "https://github.com/NeNorvalls/bits-bots_exam2.git",
+      githubLink: "https://github.com/NeNorvalls/bits-bots_project_exam2.git",
       demoLink: "https://bitsbotsprojectexam2.netlify.app/"
     },
     {
