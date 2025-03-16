@@ -101,7 +101,7 @@ const Projects = () => {
         "This website's main goal is to put what we learn about HTML and CSS",
       technologies: "HTML, CSS",
       githubLink: "https://github.com/NeNorvalls/Community-Science-Museum.git",
-      demoLink: "https://github.com/NeNorvalls/Community-Science-Museum"
+      demoLink: "https://nenorvalls.github.io/Community-Science-Museum/"
     },
     {
       title: "Contact Form",
