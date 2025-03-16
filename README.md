@@ -60,22 +60,6 @@ Welcome to a vibrant showcase of my journey in frontend development! This collec
 - **Description:** Engage with users through a sleek 'Contact Us Web App,' meticulously crafted with HTML, CSS, and JavaScript for seamless form validation.
 - **Technologies:** HTML, CSS, JavaScript.
 
-### 5. To-do-List
-
-![To-do-List](https://i.ibb.co/2v8LfDJ/Todo-List-Cover.jpg)
-
-- **Description:** Simplify your tasks with a straightforward To-Do List application, thoughtfully developed using HTML, CSS, and JavaScript.
-- **Technologies:** HTML, CSS, JavaScript.
-- [Live Demo](https://nenorvalls-to-do-list.netlify.app/)
-
-### 6. Quiz App
-
-![Quiz App](https://i.ibb.co/N7pnsF5/Quiz-App-Cover.jpg)
-
-- **Description:** Dive into the world of interactive learning with this engaging quiz app, dynamically generating questions using HTML, CSS, and JavaScript.
-- **Technologies:** HTML, CSS, JavaScript.
-- [Live Demo](https://nenorvalls-quiz-app.netlify.app/)
-
 ## Scroll to Top Button
 
 - Enjoy a seamless navigation experience with the convenient scroll-to-top button, ensuring effortless access to the top of the page.
