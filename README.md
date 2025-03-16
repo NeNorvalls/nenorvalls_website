@@ -21,14 +21,6 @@ Welcome to a vibrant showcase of my journey in frontend development! This collec
 - **Technologies:** React, Sass, Wordpress, Bootstrap, BEM.
 - [Live Demo](https://bitsbotsprojectexam2.netlify.app/)
 
-### 3. Car App
-
-![Car App](https://i.ibb.co/dtRkxNt/Picture5.png)
-
-- **Description:** Cruise through a captivating collection of cars in this React-based app, where search functionality meets a sleek user interface.
-- **Technologies:** React, CSS Modules, Hooks.
-- [Live Demo](https://car-hook-app.netlify.app/)
-
 ## HTML Projects
 
 ### 1. Ice Creams
