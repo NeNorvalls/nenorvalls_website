@@ -72,15 +72,6 @@ const Projects = () => {
       technologies: "React, Sass, Wordpress, Bootstrap, BEM",
       githubLink: "https://github.com/NeNorvalls/bits-bots_project_exam2.git",
       demoLink: "https://bitsbotsprojectexam2.netlify.app/"
-    },
-    {
-      title: "Car App",
-      imageUrl: "https://i.ibb.co/dtRkxNt/Picture5.png",
-      description:
-        "Explore a collection of cool cars in this React-based app. Find your dream car with ease using the search functionality.",
-      technologies: "React, CSS Modules, Hooks",
-      githubLink: "https://github.com/NeNorvalls/cars_react_app.git",
-      demoLink: "https://car-hook-app.netlify.app/"
     }
   ];
 
