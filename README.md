@@ -19,7 +19,7 @@ Welcome to a vibrant showcase of my journey in frontend development! This collec
 
 - **Description:** Explore a world of creativity with this React, Sass, and Bootstrap-infused project that harmoniously integrates headless WordPress CMS.
 - **Technologies:** React, Sass, Wordpress, Bootstrap, BEM.
-- [Live Demo](https://bits-and-bots.netlify.app/)
+- [Live Demo](https://bitsbotsprojectexam2.netlify.app/)
 
 ### 3. Car App
 
