@@ -119,7 +119,7 @@ const Projects = () => {
         "The 'Contact Us Web App' is built using HTML, CSS, and JavaScript.",
       technologies: "HTML, CSS, JavaScript",
       githubLink: "https://github.com/NeNorvalls/contact-us.git",
-      demoLink: "https://simple-contact-form-responsive.netlify.app/"
+      demoLink: "https://nenorvalls.github.io/contact-us/"
     },
     {
       title: "To-do-List",
